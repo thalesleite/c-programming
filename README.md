@@ -10,6 +10,7 @@ int main(void) {
    printf("Hello, world!\n"); //printf instead of pintf
    return 0;
 }
+
 Save the file as HelloWorld.c and type in the terminal:
 
 gcc -o HelloWorld HelloWorld.c
