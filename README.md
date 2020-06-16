@@ -20,3 +20,6 @@ gcc -o HelloWorld HelloWorld.c
 
 ./HelloWorld
 You should be seeing Hello World!
+
+- EOF command:
+Ctrl + D (MAC)
